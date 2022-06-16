@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MemoryTester.ResultPage">
+
+    <StackLayout VerticalOptions="CenterAndExpand" >
+        <StackLayout Orientation="Horizontal" Spacing="0" >
+            <Label  x:Name="reslbl" Text="" FontSize="30"  HorizontalOptions="CenterAndExpand" />
+            <Label  x:Name="gradelbl" Text="" FontSize="30"  HorizontalOptions="StartAndExpand" />
+        </StackLayout>
+       
+
+        <Button x:Name="backToMainMenubtn" Margin ="0,30,0,0" HorizontalOptions="CenterAndExpand" Text="Back to Main Menu"  FontSize="Large" Clicked="BackToMainMenubtn_Clicked"/>
+        </StackLayout>
+
+</ContentPage>

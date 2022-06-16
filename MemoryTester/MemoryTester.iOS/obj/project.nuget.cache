@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TBHTiptB1oHAcoPaWmYlM6jlhj26Pql2ERUqm0ldhTtIXtk5RcSt7xvsoVZCAtLLliGXOlIVLBMVddnBdKBSFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gtkal\\source\\repos\\MemoryTester\\MemoryTester\\MemoryTester.iOS\\MemoryTester.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

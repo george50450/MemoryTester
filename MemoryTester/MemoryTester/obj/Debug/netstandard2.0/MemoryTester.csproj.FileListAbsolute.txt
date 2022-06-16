@@ -1,0 +1,17 @@
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\MemoryTester.csprojAssemblyReference.cache
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\MemoryTester.AssemblyInfoInputs.cache
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\MemoryTester.AssemblyInfo.cs
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\MemoryTester.csproj.CoreCompileInputs.cache
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\MemoryTester.dll
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\ref\MemoryTester.dll
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\MemoryTester.pdb
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\bin\Debug\netstandard2.0\MemoryTester.deps.json
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\bin\Debug\netstandard2.0\MemoryTester.dll
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\bin\Debug\netstandard2.0\ref\MemoryTester.dll
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\bin\Debug\netstandard2.0\MemoryTester.pdb
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\TestPage.xaml.g.cs
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\CheckMemory.xaml.g.cs
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester\obj\Debug\netstandard2.0\ResultPage.xaml.g.cs

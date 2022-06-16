@@ -1,0 +1,1 @@
+C:\Users\gtkal\source\repos\MemoryTester\MemoryTester\MemoryTester.UWP\MemoryTester.UWP.csproj;x86

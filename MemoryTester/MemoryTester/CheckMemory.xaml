@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MemoryTester.CheckMemory">
+
+ 
+    <StackLayout>
+
+
+        <Label Text="Did you see that word?" x:Name="txtlbl" Margin="0,140,0,0" HorizontalOptions="CenterAndExpand"  FontSize="30" 
+               />
+        <Label Text="" x:Name="wordlbl" HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand"  Font="Bold,40"
+               />
+        <StackLayout HorizontalOptions = "CenterAndExpand" Orientation="Horizontal" VerticalOptions="StartAndExpand">
+            <Button Text="Yes" x:Name="yes" Clicked="Yes_Clicked" Margin="0,0,40,0" FontSize="Large" />
+            <Button Text="No" x:Name="no" Clicked="No_Clicked" Margin="40,0,0,0" FontSize="Large" />
+        </StackLayout>
+       
+    </StackLayout>
+   
+</ContentPage>
